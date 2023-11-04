@@ -7,7 +7,12 @@ public class Receita
     public int Id { get; set; }
     public string Titulo { get; set; }
     public string Descricao { get; set; }
+
+    // Ignore for git demo
     public int Rating { get; set; }
+    public int RatingTwo { get; set; }
+    // Ignore for git demo
+
     public List<Ingrediente> Ingredientes { get; set; }
 
     public Receita(string titulo, string descricao)
