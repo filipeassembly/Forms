@@ -1,7 +1,7 @@
 ﻿using Assembly.Forms.Contracts;
 using Assembly.Forms.Dtos;
 using Assembly.Forms.Exceptions;
-using Assembly.Forms.Model;
+using Assembly.Forms.Model.Model;
 
 namespace Assembly.Forms.Services;
 

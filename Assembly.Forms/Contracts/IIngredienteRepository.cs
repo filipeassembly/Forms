@@ -1,4 +1,4 @@
-﻿using Assembly.Forms.Model;
+﻿using Assembly.Forms.Model.Model;
 
 namespace Assembly.Forms.Contracts;
 

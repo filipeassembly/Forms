@@ -1,4 +1,4 @@
-﻿namespace Assembly.Forms.Exceptions;
+﻿namespace Assembly.Forms.Model.Exceptions;
 
 public class TitleDomainException : DomainException
 {

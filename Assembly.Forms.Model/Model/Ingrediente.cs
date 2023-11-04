@@ -1,4 +1,4 @@
-﻿namespace Assembly.Forms.Model;
+﻿namespace Assembly.Forms.Model.Model;
 
 public class Ingrediente
 {

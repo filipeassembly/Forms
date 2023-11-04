@@ -1,5 +1,5 @@
 ﻿using Assembly.Forms.Contracts;
-using Assembly.Forms.Model;
+using Assembly.Forms.Model.Model;
 
 namespace Assembly.Forms.Repositories
 {

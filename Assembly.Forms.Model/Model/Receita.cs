@@ -1,6 +1,6 @@
-﻿using Assembly.Forms.Exceptions;
+﻿using Assembly.Forms.Model.Exceptions;
 
-namespace Assembly.Forms.Model;
+namespace Assembly.Forms.Model.Model;
 
 public class Receita
 {
